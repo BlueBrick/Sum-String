@@ -7,8 +7,10 @@ Steps to compile and run program in terminal:
 2. java SumString -x -f targetstring
 
 -x: Optional parameter, allows reading of hex characters in targetstring
+
 -f: Optional parameter, if specified, targetstring should be the name of the file in the folder as SumString.java
     eg. java SumString -f sample.txt
+    
 targetstring: Required parameter, specifies the string to calculate the sum of digits. Should be the name of the file if using              the -f flag
 
 
